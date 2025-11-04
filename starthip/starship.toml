@@ -6,7 +6,7 @@ add_newline = false
 
 [hostname]
 ssh_only = false
-format = '[rivaldo](bold yellow) on [$hostname](bold green) [ ](bold purple) '
+format = '[codewithrivaldo](bold yellow) on [$hostname](bold green) [ ](bold purple) '
 trim_at = '.companyname.com'
 disabled = false
 
